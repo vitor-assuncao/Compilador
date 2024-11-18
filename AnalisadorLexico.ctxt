@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AnalisadorLexico
+comment1.params=entrada
+comment1.target=java.util.ArrayList\ tokenizar(java.lang.String)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Token
+comment1.params=tipo\ valor
+comment1.target=Token(TipoToken,\ java.lang.String)
+comment2.params=
+comment2.target=TipoToken\ getTipo()
+comment3.params=
+comment3.target=java.lang.String\ getValor()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
